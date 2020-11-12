@@ -4,6 +4,7 @@ Automates step 5 of Serede's batch mkvtoolnix script usage see: https://github.c
 # Dependencies
 - [MKVToolNix](https://www.fosshub.com/MKVToolNix.html)
 - [Serede's batch mkvtoolnix script](https://github.com/Serede/mkvtoolnix-batch)
+- [python3](https://www.python.org/downloads/)
 
 
 # Usage
