@@ -1,5 +1,5 @@
 # Description
-Automates step 5 of Serede's batch mkvtoolnix script usage see: https://github.com/Serede/mkvtoolnix-batch 
+Automates step 5 of Serede's batch mkvtoolnix script usage see: https://github.com/Serede/mkvtoolnix-batch/blob/master/README.md 
 
 # Dependencies
 - [MKVToolNix](https://www.fosshub.com/MKVToolNix.html)
